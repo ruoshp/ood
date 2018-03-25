@@ -1,4 +1,4 @@
-import Fac.*;
+
 public class DecathlonFacadeDemo 
 {
 	public static void main(String[] args)
