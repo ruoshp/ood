@@ -1,4 +1,4 @@
-package Fac;
+
 public class ItemPurchased
 {
 	String id,name;
