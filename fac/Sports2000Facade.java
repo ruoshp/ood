@@ -1,4 +1,4 @@
-package Fac;
+
 public class Sports2000Facade 
 {
 	Sports2000ProcessSales re;
