@@ -1,4 +1,4 @@
-package Fac;
+
 import java.util.Scanner;
 
 //It is the Sub-System of Italian Company "Sports2000" which DecathlonPOS currently has no implementation details about 
